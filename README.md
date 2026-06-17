@@ -4,6 +4,8 @@
 [![Validate](https://github.com/zitao4588-create/goal-task-prompt/actions/workflows/validate.yml/badge.svg)](https://github.com/zitao4588-create/goal-task-prompt/actions/workflows/validate.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+[中文说明](README.zh-CN.md)
+
 Turn fuzzy agent requests into verifiable Codex `/goal` prompts, Loop Cards, evaluation prompts, and multi-agent plans.
 
 Most agent failures start before the agent writes code: the task is vague, boundaries are missing, and nobody defined what "done" means. This Codex skill turns rough asks into small task contracts with context, inputs, constraints, verification, stop conditions, and closeout.
@@ -100,6 +102,7 @@ The skill keeps prompts focused on:
 - [Evaluation guide](docs/evaluation.md)
 - [Roadmap](docs/roadmap.md)
 - [Social preview asset](docs/social-preview.md)
+- [Launch copy for X and Xiaohongshu](promo/)
 
 ## Repository Layout
 
@@ -141,4 +144,3 @@ Do not include secrets, private tokens, customer data, payment data, production 
 Contributions are welcome when they make the skill sharper without making it bloated. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 If this helps you turn vague agent work into verifiable execution, star the repo so other agent builders can find it.
-
