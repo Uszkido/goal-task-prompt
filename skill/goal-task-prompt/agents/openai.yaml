@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Task Prompt"
+  short_description: "Draft Goals, Loop Cards, evals, and agent plans"
+  default_prompt: "Use $goal-task-prompt to turn this rough idea into a verifiable /goal, Loop Card, evaluation prompt, or multi-agent plan."
