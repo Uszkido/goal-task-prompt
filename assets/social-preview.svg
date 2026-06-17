@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Goal Task Prompt social preview</title>
+  <desc id="desc">Turn fuzzy agent requests into verifiable goals.</desc>
+  <rect width="1280" height="640" fill="#0d1117"/>
+  <rect x="70" y="70" width="1140" height="500" rx="30" fill="#f6f8fa"/>
+  <text x="130" y="175" fill="#0d1117" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="72" font-weight="800">Goal Task Prompt</text>
+  <text x="132" y="245" fill="#24292f" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="34" font-weight="500">Turn fuzzy agent requests into verifiable /goal prompts.</text>
+  <rect x="130" y="315" width="1020" height="150" rx="20" fill="#0d1117"/>
+  <text x="170" y="375" fill="#7ee787" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="30">"make this better"</text>
+  <text x="170" y="425" fill="#f0f6fc" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="30">Goal -> Context -> Boundaries -> Verification -> Stop</text>
+  <text x="132" y="530" fill="#57606a" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="26">Codex skill · Loop Cards · Multi-agent orchestration · Prompt evaluation</text>
+</svg>
+

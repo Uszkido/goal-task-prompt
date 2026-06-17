@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and support
+    url: https://github.com/zitao4588-create/goal-task-prompt/issues/new?template=prompt_case.md
+    about: Use a prompt case when you are not sure whether the behavior is a bug.
+
